@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_2d0071b4bbb2f6e28636130d21554e3cc19da34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_2e41bc1c2e2c98a15839d568cbf5abfce9932c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_fb5889db245a3d7f3fae134d54caf6caf2effd1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_dcc3e9ecfcaef12bc72d0c222a7eeb764fddd595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_6de8b04a766afa7d19174771f157d82d22e7eef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_72ac398ad2842f3d7da452792c7982991eb3192f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_942b8b263cb9aa348470c0f2b656a770a8d433e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f393b7d5dce725f0c93e4b8ba564d29e23ddf969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_767f29ac95f5e8349ba45c384d7647ed2edaf050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_fdd32c7a10182b265c45185154b9364a4869f27d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_2f5a830e2d92ece8ac1821cedd62a805e5077eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1736b19312a5a4811734555bc0b27f0a9b5ea7">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9399cb27a5e681a196759c18d273b27e6f0acdbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d403352783f92d3186998851d0e389c0d9aa51db">
+        <dex dex="C:\Users\MasiM\AndroidStudioProjects\QuizIt-Sports\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08f9b8b93dee544958afa923306734dac3d797ac\classes.dex" />
+    </item>
+
+</items>
